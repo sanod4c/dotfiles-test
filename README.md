@@ -15,7 +15,7 @@ Let's try dotfiles!
    docker exec -it archlinux bash
    ```
 
-2. Setting up terminal environment using dotfiles
+2. Setting up terminal environment using dotfiles (Answer 'Y' to all prompts during the installation process.)
 
    ```sh
    sh -c "$(curl -fsSL https://raw.githubusercontent.com/sanod4c/dotfiles-test/main/install.sh)" 
